@@ -1,5 +1,4 @@
-from django.http import HttpResponse
-from django.template import loader
+from django.shortcuts import render
 from .models import Station
 
 # Create your views here.
@@ -8,5 +7,4 @@ def index(request):
 	context = {
 		'stations': stations,
 	}
-	template = loader.get_template('main/index.html')
-	return HttpResponse(template.render(context, request))
+	return render(request, 'main/index.html', context)
