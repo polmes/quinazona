@@ -1,0 +1,298 @@
+
+Abrera: 3
+Aguilar de Segarra: 6
+Aiguafreda: 4
+Alella: 2
+Alpens: 6
+L'Ametlla del Vallès: 4
+L'Arboç: 5
+Arenys de Mar: 4
+Arenys de Munt: 4
+Argençola: 6
+Argentona: 3
+Artés: 6
+Avinyó: 6
+Avinyonet del Penedès: 3
+Badalona: 1
+Badia del Vallès: 2
+Balenyà: 5
+Balsareny: 6
+Barberà del Vallès: 2
+Barcelona: 1
+Begues: 2
+Bellprat: 5
+Bellveí: 5
+Bigues i Riells: 4
+Blanes: 5
+Breda: 4
+El Bruc: 5
+El Brull: 5
+Les Cabanyes: 4
+Cabrera d'Anoia: 4
+Cabrera de Mar: 3
+Cabrils: 2
+Calaf: 6
+Calafell: 5
+Calders: 6
+Caldes d'Estrac: 3
+Caldes de Montbui: 3
+Calella: 4
+Calldetenes: 6
+Callús: 6
+Calonge de Segarra: 6
+Campins: 4
+Canet de Mar: 4
+Canovelles: 3
+Cànoves i Samalús: 4
+Canyelles: 4
+Capellades: 5
+Cardedeu: 3
+Cardona: 6
+Carme: 5
+Castellar del Vallès: 3
+Castellbell i el Vilar: 5
+Castellbisbal: 2
+Castellcir: 4
+Castelldefels: 1
+Castellet i la Gornal: 4
+Castellfollit del Boix: 6
+Castellfollit de Riubregós: 6
+Castellgalí: 5
+Castellnou de Bages: 6
+Castellolí: 5
+Castellterçol: 4
+Castellví de la Marca: 4
+Castellví de Rosanes: 3
+Centelles: 5
+Cerdanyola del Vallès: 2
+Cervelló: 2
+Collbató: 4
+Collsuspina: 5
+Copons: 6
+Corbera de Llobregat: 2
+Cornellà de Llobregat: 1
+Cubelles: 4
+Cunit: 5
+Dosrius: 3
+Esparreguera: 3
+Espinelves: 5
+Esplugues de Llobregat: 1
+L'Esquirol: 6
+L'Estany: 6
+Figaró-Montmany: 4
+Fogars de Montclús: 4
+Fogars de la Selva: 5
+Folgueroles: 6
+Fonollosa: 6
+Font-rubí: 4
+Les Franqueses del Vallès: 3
+Gaià: 6
+Gallifa: 4
+Garraf (Sitges): 2
+La Garriga: 4
+Gavà: 1
+Gelida: 3
+Gurb: 6
+La Granada: 4
+Granera: 4
+Granollers: 3
+Gualba: 4
+L'Hospitalet de Llobregat: 1
+Els Hostalets de Pierola: 4
+Hostalric: 5
+Igualada: 6
+Jorba: 6
+La Llacuna: 5
+La Llagosta: 2
+Lliçà d'Amunt: 3
+Lliçà de Vall: 3
+Llinars del Vallès: 3
+Lluçà: 6
+Maçanet de la Selva: 6
+Malgrat de Mar: 5
+Malla: 5
+Manlleu: 6
+Manresa: 6
+Marganell: 5
+Martorell: 3
+Martorelles: 2
+Les Masies de Roda: 6
+Les Masies de Voltregà: 6
+El Masnou: 2
+Masquefa: 4
+Massanes: 6
+Matadepera: 3
+Mataró: 3
+Mediona: 4
+Moià: 5
+Molins de Rei: 2
+Mollet del Vallès: 2
+Monistrol de Calders: 6
+Monistrol de Montserrat: 4
+Montcada i Reixac: 1
+Montesquiu: 6
+Montgat: 1
+Montmaneu: 6
+Montmeló: 2
+Montornès del Vallès: 2
+Montseny: 4
+Muntanyola: 5
+Mura: 5
+Navarcles: 6
+Navàs: 6
+Òdena: 6
+Olèrdola: 4
+Olesa de Bonesvalls: 3
+Olesa de Montserrat: 3
+Olivella: 3
+Olost: 6
+Orís: 6
+Oristà: 6
+Orpí: 5
+Òrrius: 3
+Pacs del Penedès: 4
+Palafolls: 5
+Palau-solità i Plegamans: 2
+Pallejà: 2
+La Palma de Cervelló: 2
+El Papiol: 2
+Parets del Vallès: 2
+Perafita: 6
+Piera: 4
+Pineda de Mar: 4
+El Pla del Penedès: 4
+La Pobla de Claramunt: 5
+Polinyà: 2
+El Pont de Vilomara i Rocafort: 5
+Pontons: 4
+El Prat de Llobregat: 1
+Prats de Lluçanès: 6
+Els Prats de Rei: 6
+Premià de Dalt: 2
+Premià de Mar: 2
+Puigdàlber: 4
+Pujalt: 6
+Rajadell: 6
+Rellinars: 4
+Riells i Viabrea: 4
+Ripollet: 2
+La Roca del Vallès: 3
+Roda de Ter: 6
+Rubí: 2
+Rubió: 6
+Rupit i Pruit: 6
+Sabadell: 2
+Sallent: 6
+Sant Adrià de Besòs: 1
+Sant Agustí de Lluçanès: 6
+Sant Andreu de la Barca: 2
+Sant Andreu de Llavaneres: 3
+Sant Antoni de Vilamajor: 3
+Sant Bartomeu del Grau: 6
+Sant Boi de Llobregat: 1
+Sant Boi de Lluçanès: 6
+Sant Cebrià de Vallalta: 4
+Sant Celoni: 4
+Sant Climent de Llobregat: 2
+Sant Cugat del Vallès: 2
+Sant Cugat Sesgarrigues: 4
+Sant Esteve de Palautordera: 4
+Sant Esteve Sesrovires: 3
+Sant Feliu de Codines: 4
+Sant Feliu de Llobregat: 1
+Sant Feliu Sasserra: 6
+Sant Fost de Campsentelles: 2
+Sant Fruitós de Bages: 6
+Sant Hipòlit de Voltregà: 6
+Sant Iscle de Vallalta: 4
+Sant Joan de Vilatorrada: 6
+Sant Joan Despí: 1
+Sant Julià de Vilatorta: 6
+Sant Just Desvern: 1
+Sant Llorenç d'Hortons: 3
+Sant Llorenç Savall: 3
+Sant Martí d'Albars: 6
+Sant Martí de Centelles: 4
+Sant Martí de Tous: 6
+Sant Martí Sarroca: 4
+Sant Martí Sesgueioles: 6
+Sant Mateu de Bages: 6
+Sant Pere de Ribes: 3
+Sant Pere de Riudebitlles: 4
+Sant Pere de Torelló: 6
+Sant Pere Sallavinera: 6
+Sant Pere de Vilamajor: 4
+Sant Pol de Mar: 4
+Sant Quintí de Mediona: 4
+Sant Quirze de Besora: 6
+Sant Quirze del Vallès: 2
+Sant Quirze Safaja: 4
+Sant Sadurní d'Anoia: 3
+Sant Sadurní d'Osormort: 6
+Sant Salvador de Guardiola: 6
+Sant Vicenç de Castellet: 5
+Sant Vicenç de Montalt: 3
+Sant Vicenç de Torelló: 6
+Sant Vicenç dels Horts: 2
+Santa Coloma de Cervelló: 2
+Santa Coloma de Gramenet: 1
+Santa Cecilia de Voltregà: 6
+Santa Eugènia de Berga: 6
+Santa Eulàlia de Riuprimer: 6
+Santa Eulàlia de Ronçana: 3
+Santa Fe del Penedès: 4
+Santa Margarida de Montbui: 6
+Santa Margarida i els Monjos: 4
+Santa Maria de Besora: 6
+Santa Maria de Martorelles: 2
+Santa Maria de Miralles: 5
+Santa Maria d'Oló: 6
+Santa Maria de Palautordera: 4
+Santa Oliva: 5
+Santa Perpètua de Mogoda: 2
+Santa Susanna: 5
+Santpedor: 6
+Sentmenat: 3
+Seva: 5
+Sitges: 3
+Sobremunt: 6
+Sora: 6
+Subirats: 3
+Súria: 6
+Tagamanent: 4
+Talamanca: 5
+Taradell: 5
+Tavèrnoles: 6
+Tavertet: 6
+Teià: 2
+Terrassa: 3
+Tiana: 1
+Tona: 5
+Tordera: 5
+Torelló: 6
+La Torre de Claramunt: 5
+Torrelavit: 4
+Torrelles de Foix: 4
+Torrelles de Llobregat: 2
+Ullastrell: 3
+Vacarisses: 4
+Vallbona d'Anoia: 5
+Vallgorguina: 4
+Vallirana: 2
+Vallromanes: 2
+Veciana: 6
+El Vendrell: 6
+Vic: 6
+Vidrà: 6
+Viladecans: 1
+Viladecavalls: 3
+Viladrau: 5
+Vilafranca del Penedès: 4
+Vilalba Sasserra: 4
+Vilanova de Sau: 6
+Vilanova del Camí: 6
+Vilanova del Vallès: 3
+Vilanova i la Geltrú: 4
+Vilassar de Dalt: 2
+Vilassar de Mar: 2
+Vilobí del Penedès: 4
