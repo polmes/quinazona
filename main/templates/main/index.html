@@ -1,6 +1,8 @@
 <h1>Welcome to QuinaZona.cat!</h1>
 <input type="text" name="input">
 
+<ul>
 {% for station in stations %}
-	<ul>{{ station.name }}</ul>
+	<li>{{ station.name }} - {{ station.zone }}</li>
 {% endfor %}
+</ul>
